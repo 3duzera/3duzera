@@ -1,5 +1,5 @@
 # Sobre mim
- Me chamo Eduardo e tualmente estou cursando o curso de Ciências da computação no instituto federal de São Paulo. Tenho interesse em diversas áreas do desenvolvimento, principalmente no funcionamento de I.A e análise de dados, entretanto ainda me divirto fazendo projetos front-end.
+ Me chamo Eduardo e atualmente estou cursando o curso de Ciências da computação no instituto federal de São Paulo. Tenho interesse em diversas áreas do desenvolvimento, principalmente no funcionamento de I.A e análise de dados, entretanto ainda me divirto fazendo projetos front-end.
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=3#0000CD)](https://www.linkedin.com/in/eduardo-minghini-sales-da-silva-84b409205/)
