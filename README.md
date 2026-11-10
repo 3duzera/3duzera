@@ -43,7 +43,7 @@ Sou bacharel em Ciência da Computação pelo IFSP e curso MBA em Data Science e
 
 | Projeto | O que é | Stack |
 |---|---|---|
-| [**Potencial fotovoltaico com visão computacional**](https://github.com/3duzera/potencial-fotovoltaico-yolo11) (TCC) | Segmenta telhados em imagens de satélite e calcula quantos painéis solares cabem em cada um. O dataset tem 200 imagens que anotei à mão. | Python, YOLO11, Roboflow, Shapely |
+| [**Potencial fotovoltaico com visão computacional**](https://github.com/3duzera/potencial-fotovoltaico-yolo11) (TCC) | Segmenta telhados em imagens de satélite e calcula quantos painéis solares cabem em cada um. O dataset tem 188 imagens que anotei à mão. | Python, YOLO11, Roboflow, Shapely |
 | [**Discoleta**](https://github.com/3duzera/Discoleta) · [ver online](https://3duzera.github.io/Discoleta/) | Roleta que sorteia um disco da sua coleção de vinis do Discogs, com filtros e cache no navegador. | HTML, CSS, JavaScript, API Discogs |
 | [**Wikipédia Biológica**](https://github.com/3duzera/Wikipedia-Biologica) | Aplicação web full stack para catalogar animais por taxonomia. | Java Spring, PostgreSQL |
 
